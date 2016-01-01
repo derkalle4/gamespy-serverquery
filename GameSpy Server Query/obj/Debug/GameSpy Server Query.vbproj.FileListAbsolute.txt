@@ -1,0 +1,22 @@
+c:\users\jan\documents\visual studio 2013\Projects\GameSpy Server Query\GameSpy Server Query\bin\Debug\GameSpy Server Query.exe.config
+c:\users\jan\documents\visual studio 2013\Projects\GameSpy Server Query\GameSpy Server Query\bin\Debug\GameSpy Server Query.exe
+c:\users\jan\documents\visual studio 2013\Projects\GameSpy Server Query\GameSpy Server Query\bin\Debug\GameSpy Server Query.pdb
+c:\users\jan\documents\visual studio 2013\Projects\GameSpy Server Query\GameSpy Server Query\bin\Debug\GameSpy Server Query.xml
+c:\users\jan\documents\visual studio 2013\Projects\GameSpy Server Query\GameSpy Server Query\obj\Debug\GameSpy_Server_Query.FormMain.resources
+c:\users\jan\documents\visual studio 2013\Projects\GameSpy Server Query\GameSpy Server Query\obj\Debug\GameSpy_Server_Query.Resources.resources
+c:\users\jan\documents\visual studio 2013\Projects\GameSpy Server Query\GameSpy Server Query\obj\Debug\GameSpy Server Query.vbproj.GenerateResource.Cache
+c:\users\jan\documents\visual studio 2013\Projects\GameSpy Server Query\GameSpy Server Query\obj\Debug\GameSpy Server Query.exe
+c:\users\jan\documents\visual studio 2013\Projects\GameSpy Server Query\GameSpy Server Query\obj\Debug\GameSpy Server Query.xml
+c:\users\jan\documents\visual studio 2013\Projects\GameSpy Server Query\GameSpy Server Query\obj\Debug\GameSpy Server Query.pdb
+C:\Users\Jan\Documents\Visual Studio 2013\Projects\GameSpy Server Query\GameSpy Server Query\obj\Debug\GameSpy Server Query.vbprojResolveAssemblyReference.cache
+C:\Users\Jan\Documents\GamespyMasterServer\GameSpy Server Query\GameSpy Server Query\bin\Debug\GameSpy Server Query.exe.config
+C:\Users\Jan\Documents\GamespyMasterServer\GameSpy Server Query\GameSpy Server Query\obj\Debug\GameSpy Server Query.exe
+C:\Users\Jan\Documents\GamespyMasterServer\GameSpy Server Query\GameSpy Server Query\obj\Debug\GameSpy Server Query.xml
+C:\Users\Jan\Documents\GamespyMasterServer\GameSpy Server Query\GameSpy Server Query\obj\Debug\GameSpy Server Query.pdb
+C:\Users\Jan\Documents\GamespyMasterServer\GameSpy Server Query\GameSpy Server Query\bin\Debug\GameSpy Server Query.exe
+C:\Users\Jan\Documents\GamespyMasterServer\GameSpy Server Query\GameSpy Server Query\bin\Debug\GameSpy Server Query.pdb
+C:\Users\Jan\Documents\GamespyMasterServer\GameSpy Server Query\GameSpy Server Query\bin\Debug\GameSpy Server Query.xml
+C:\Users\Jan\Documents\GamespyMasterServer\GameSpy Server Query\GameSpy Server Query\obj\Debug\GameSpy Server Query.vbprojResolveAssemblyReference.cache
+C:\Users\Jan\Documents\GamespyMasterServer\GameSpy Server Query\GameSpy Server Query\obj\Debug\GameSpy_Server_Query.FormMain.resources
+C:\Users\Jan\Documents\GamespyMasterServer\GameSpy Server Query\GameSpy Server Query\obj\Debug\GameSpy_Server_Query.Resources.resources
+C:\Users\Jan\Documents\GamespyMasterServer\GameSpy Server Query\GameSpy Server Query\obj\Debug\GameSpy Server Query.vbproj.GenerateResource.Cache
